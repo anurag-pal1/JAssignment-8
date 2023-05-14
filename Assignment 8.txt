@@ -1,0 +1,48 @@
+Ans 1:  In Java, conditional operators check the condition and decides the desired result on the basis of both conditions. In this section, we will discuss the conditional operator in Java.
+
+Types of Conditional Operator
+There are three types of the conditional operator in Java:
+
+Conditional AND
+Conditional OR
+Ternary Operator
+
+Ans 2: There are three types of the conditional operator in Java:
+
+      Conditional AND
+      Conditional OR
+      Ternary Operator
+      Unary Operator
+
+Ans 3: The switch case in java is used to select one of many code blocks for execution. Break keyword: As java reaches a break keyword, the control breaks out of the switch block. 
+       The execution of code stops on encountering this keyword, and the case testing inside the block ends as the match is found.
+
+Ans 4: Multiplication, division and remainder operations are applied first. If an expression contains several such operations, they're applied from left to right.
+         Multiplication, division and remainder operators have the same level of precedence.
+
+Ans 5: In Java, there are two forms of conditional statements: • the if-else statement, to choose between two alternatives; • the switch statement, to choose between multiple alternatives.
+
+Ans 6:     Syntax:
+
+            if(condition)
+            {  
+               //code if condition is true  
+            }
+            else
+            {  
+               //code if condition is false  
+            } 
+
+Ans 7:The three types of iteration constructs are:
+     For loop: Executes a set of statements a fixed number of times.
+     While loop: Repeats a set of statements while a given condition is true.
+     Do-while loop: Repeats a set of statements at least once and then continues to repeat as long as a given condition is true.
+
+Ans 8:           For loop	                                                         Do-While loop
+
+
+     Statement(s) is executed once the condition is checked.	Condition is checked after the statement(s) is executed.
+     It might be that statement(s) gets executed zero times.	Statement(s) is executed at least once.
+     For the single statement, bracket is not compulsory.    	Brackets are always compulsory.
+     Initialization may be outside or in condition box.	      Initialization may be outside or within the loop.
+     for loop is entry controlled loop.	                        do-while is exit controlled loop.
